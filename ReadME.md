@@ -15,7 +15,7 @@ I made the followings.
 Recommendations_with_IBM.ipynb
 
 ### Acknowledgements
-Must give credit to IBM for the data and Udacity
+Must give credit to IBM for the data and Udacity for this nice project
 
 
 
